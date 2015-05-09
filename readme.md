@@ -6,6 +6,11 @@
 
 Able to webpack support glob wildcards
 
+### Install
+```
+npm install gulp-webpack-glob
+```
+
 ### Usage
 ```javascript
 var webpackGlob = require('gulp-webpack-glob');
