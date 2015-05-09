@@ -1,0 +1,42 @@
+{
+  "name": "gulp-webpack-glob",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "repository": "webcaetano/gulp-webpack-glob",
+  "author": {
+    "name": "Andre Caetano",
+    "email": "dezaodoido@gmail.com",
+    "url": "https://github.com/webcaetano"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "webpack",
+    "glob",
+    "javascript",
+    "modules",
+    "module-exports",
+    "inject",
+    "gulp",
+    "gulpjs"
+  ],
+  "dependencies": {
+    "glob": "^5.0.5",
+    "lodash": "^3.8.0",
+    "through2": "^0.6.3"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "gulp": "^3.8.11",
+    "mocha": "^2.2.4"
+  }
+}
