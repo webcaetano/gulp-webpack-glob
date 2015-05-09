@@ -1,7 +1,7 @@
 {
   "name": "gulp-webpack-glob",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Able to webpack support glob wildcards",
   "license": "MIT",
   "repository": "webcaetano/gulp-webpack-glob",
   "author": {
