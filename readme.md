@@ -1,5 +1,11 @@
 [![Build Status](https://travis-ci.org/webcaetano/gulp-webpack-glob.svg?branch=master)](https://travis-ci.org/webcaetano/gulp-webpack-glob) [![npm version](https://badge.fury.io/js/gulp-webpack-glob.svg)](http://badge.fury.io/js/gulp-webpack-glob)
 
+### ** This repo are not working ** 
+Read this issue : https://github.com/shama/gulp-webpack/issues/54
+
+Just add a glob on the gulp-webpack entry.
+
+
 # Gulp Webpack Glob
 
 ![glob](https://raw.githubusercontent.com/isaacs/node-glob/master/oh-my-glob.gif)
